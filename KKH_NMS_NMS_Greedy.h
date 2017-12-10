@@ -1,3 +1,5 @@
+// Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+
 #include <jni.h>
 /* Header for class KKH_NMS_NMS_Greedy */
 
