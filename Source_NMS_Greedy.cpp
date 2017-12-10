@@ -1,3 +1,4 @@
+// Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 #include "KKH_NMS_NMS_Greedy.h"
 #include "JNI_type_converter.h"
