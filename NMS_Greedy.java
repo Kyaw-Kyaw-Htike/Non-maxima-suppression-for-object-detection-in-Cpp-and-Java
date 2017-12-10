@@ -1,7 +1,7 @@
 package KKH.NMS;
 
 /**
- * Created by Kyaw on 21-May-17.
+ * Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
  */
 public class NMS_Greedy {
 
