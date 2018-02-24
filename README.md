@@ -5,6 +5,8 @@ Non-Maxima Suppression (NMS) of detection bounding boxes is one of most vital co
 
 However, there are still no open source NMS implementations for C++ and Java. Here, I use the Armadillo C++ linear algebra library to implement the greedy NMS algorithm in C++. Additionally, I provide a Java API using the Java Native Interface (JNI) so that it can be conveniently used in any object detection systems written in Java, in addition to any object detection systems written in C++.
 
+https://kyaw.xyz/2017/12/10/non-maxima-suppression-for-object-detection-in-c-and-java/
+
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur
