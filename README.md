@@ -11,8 +11,7 @@ Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur
 
-https://kyaw.xyz
-
+[https://kyaw-kyaw-htike.github.io](https://kyaw-kyaw-htike.github.io)
 
 [1] A Discriminatively Trained, Multiscale, Deformable Part Model
 P. Felzenszwalb, D. McAllester, D. Ramanan
@@ -25,3 +24,5 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 32, No. 9, 
 [3] Object Detection Grammars
 P. Felzenszwalb, D. McAllester
 University of Chicago, Computer Science TR-2010-02, February 2010
+
+Dr. Kyaw Kyaw | Kyaw Kyaw | Ali Abdul Ghafur
