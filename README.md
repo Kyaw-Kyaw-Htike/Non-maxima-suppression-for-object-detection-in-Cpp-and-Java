@@ -25,4 +25,4 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 32, No. 9, 
 P. Felzenszwalb, D. McAllester
 University of Chicago, Computer Science TR-2010-02, February 2010
 
-Dr. Kyaw Kyaw | Kyaw Kyaw | Ali Abdul Ghafur
+Kyaw Kyaw Htike | Dr. Kyaw Kyaw Htike | Dr. Kyaw Kyaw | Kyaw Kyaw | Ali Abdul Ghafur
